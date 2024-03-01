@@ -1,0 +1,1 @@
+# firmware_galaxy_a40
